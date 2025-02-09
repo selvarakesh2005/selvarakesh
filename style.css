@@ -13,9 +13,8 @@ body{
     background-image: url(rakesh.jpg);
     background-repeat: no-repeat;
     background-size: 1500px;
-    min-height: 600px;
-    width: 100px;
-    min-width: 370px;
+    background-position: top;
+    
 
     
 }
